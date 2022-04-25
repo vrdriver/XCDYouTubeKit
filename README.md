@@ -1,3 +1,9 @@
+## Notice on this repository
+This repository has been cloned as one that has been working in conjunction for Ionic 6 projects since YouTube made changes and broke everything.
+You can find the companion repository here: https://github.com/vrdriver/CordovaYoutubeVideoPlayer
+
+The rest of the repository settings below are the original...
+
 ## About
 
 [![Build Status](https://img.shields.io/circleci/project/0xced/XCDYouTubeKit/develop.svg?style=flat)](https://circleci.com/gh/0xced/XCDYouTubeKit)
