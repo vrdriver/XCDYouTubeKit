@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                   = "XCDYouTubeKit-kbexdev"
+  s.name                   = "XCDYouTubeKit"
   s.version                = "2.16.0"
   s.summary                = "Fork of YouTube video player for iOS and OS X."
   s.homepage               = "https://github.com/vrdriver/XCDYouTubeKit"
