@@ -2,12 +2,12 @@ Pod::Spec.new do |s|
   s.name                   = "XCDYouTubeKit-kbexdev"
   s.version                = "2.16.0"
   s.summary                = "Fork of YouTube video player for iOS and OS X."
-  s.homepage               = "https://github.com/kbex-dev/XCDYouTubeKit"
+  s.homepage               = "https://github.com/vrdriver/XCDYouTubeKit"
   s.screenshot             = "https://raw.github.com/0xced/XCDYouTubeKit/#{s.version}/Screenshots/XCDYouTubeVideoPlayerViewController.png"
   s.license                = { :type => "MIT", :file => "LICENSE" }
   s.author                 = { "kbexdev" => "kbexdev@gmail.com" }
   s.social_media_url       = ""
-  s.source                 = { :git => "https://github.com/kbex-dev/XCDYouTubeKit.git", :tag => s.version.to_s }
+  s.source                 = { :git => "https://github.com/vrdriver/XCDYouTubeKit.git", :tag => s.version.to_s }
   s.ios.deployment_target  = "8.0"
   s.osx.deployment_target  = "10.9"
   s.tvos.deployment_target = "9.0"
